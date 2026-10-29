@@ -4,9 +4,9 @@ This repository contains my pratice exercises and some projects as part of The O
 
 ## Purpose
 
-I am using his repo to build muscle emory with Git, HTML, CSS and JavaScript.
+I am using this repo to build muscle memory with Git, HTML, CSS and JavaScript.
 
-## Techonologies used
+## Technologies used
 
 - HTML5
 - CSS3 (Coming Soon)
