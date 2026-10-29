@@ -8,9 +8,9 @@ I am using his repo to build muscle emory with Git, HTML, CSS and JavaScript.
 
 ## Techonologies used
 
--HTML5
--CSS3
--JavaScript 
+- HTML5
+- CSS3 (Coming Soon)
+- JavaScript (Coming Soon) 
 
 ## Author
 **Aleem Khan**
